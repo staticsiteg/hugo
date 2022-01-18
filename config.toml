@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://staticsiteg.github.io/hugo"
 languageCode = "en-US"
 defaultContentLanguage = "en"
 
